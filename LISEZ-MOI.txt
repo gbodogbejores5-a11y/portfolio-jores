@@ -1,0 +1,7 @@
+Portfolio de Jorès Gbodogbe
+
+Pour publier : envoie le contenu de ce dossier sur ton hébergeur
+(Cloudflare Pages, Netlify, GitHub Pages...). Le fichier principal est index.html.
+Il est autonome : le logo et la photo sont déjà intégrés dedans.
+Le dossier images contient les mêmes images pour tes autres usages.
+Une connexion internet est nécessaire pour charger les polices.
